@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+
+	<general>
+		<fanpage>humanizaredes</fanpage>
+		<accessToken></accessToken>
+	</general>
+
+	<posts>
+		<!-- Value 0 means no limit for number of posts to be retrieved. -->
+		<quantity>0</quantity>
+		<since></since>
+		<until></until>
+	</posts>
+
+	<comments>
+		<!-- Value 0 means no limit for number of comments to be retrieved per post. -->
+		<quantity>0</quantity>
+	</comments>
+
+</config>
